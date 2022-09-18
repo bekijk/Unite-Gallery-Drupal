@@ -29,6 +29,7 @@ Methods:
 
 I use an image style big. This displays images at full size. You can create your own image styles, using focal point if necessary.  All the rest is self-explanatory.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Nederlands:
 Unite Gallery integreert in Drupal 9. https://unitegallery.net/ heeft talrijke knappe voorstellingswijzen van afbeeldingen en video's.
