@@ -27,3 +27,29 @@ Werkwijze:
 3) Verfijn de instellingen. Om didactische redenen heb ik sommige velden niet verborgen in de weergaves. Ook de Asset injector kan je verfijnen door de javascript enkel op de pagina's in te stellen die je nodig hebt.
 
 Ik maak gebruik van een afbeeldingsstijl big. Dit geeft de afbeeldingen weer op ware grootte. Je kunt zelf afbeeldingsstijlen aanmaken, desnoods met focal point.  Al de rest wijst zichzelf uit.
+
+
+Vereist: module
+asset_injector (ontbreekt)	    https://www.drupal.org/project/asset_injector
+color_field    (ontbreekt)		  https://www.drupal.org/project/color_field
+conditional_fields (ontbreekt)	https://www.drupal.org/project/conditional_fields
+Field
+File
+Image
+Language
+Menu UI
+Custom Menu Links
+Link
+Node
+Text
+Filter
+User
+System
+Options
+Path
+Path alias
+twig_field (ontbreekt)		    https://www.drupal.org/project/twig_field
+The CodeMirror Editor		      https://www.drupal.org/project/codemirror_editor	
+twig_tweak (ontbreekt)	    	https://www.drupal.org/project/twig_tweak
+bamboo_twig (ontbreekt) 	    https://www.drupal.org/project/bamboo_twig
+bamboo_twig_loader (ontbreekt
