@@ -1,37 +1,3 @@
-English:
-Unite Gallery integrates into Drupal 9. https://unitegallery.net/ has numerous clever representations of images and videos.
-
-I provide 2 representations for images in one node
-
-Justified Tiles
-Compact Slider
-
-and numerous other representations for a view that displays all images in an image field of a content type.
-
-Tiles Columns
-Tiles Nested
-Tiles Grid
-Tiles Justified
-Slider Carousel
-Slider Compact
-Slider Grid
-Slider Theme
-
-I also provide a representation of youtube videos. Almost everything is adjustable: dimensions, background color, image style,.... Programming is done exclusively with twigs. There is no PHP involved. Everything is also responsive, multibrowser and multidevice.
-
-Methods:
-
-1) Install the third party in the libraries folder: unite_gallery_third_party.zip Make sure that in the libraries folder the folder has the name 'unitegallery' containing 
-
-2) Install and activate the module: unite_gallery.zip
-
-3) Refine the settings. For didactic reasons I have not hidden some fields in the views. You can also refine the Asset injector by setting the javascript only on the pages you need.
-
-I use an image style big. This displays images at full size. You can create your own image styles, using focal point if necessary.  All the rest is self-explanatory.
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Nederlands:
 Unite Gallery integreert in Drupal 9. https://unitegallery.net/ heeft talrijke knappe voorstellingswijzen van afbeeldingen en video's.
 
 Ik voorzie 2 voorstellingen voor afbeeldingen in één node
