@@ -48,8 +48,8 @@ System
 Options
 Path
 Path alias
-twig_field (ontbreekt)		    https://www.drupal.org/project/twig_field
-The CodeMirror Editor		      https://www.drupal.org/project/codemirror_editor	
-twig_tweak (ontbreekt)	    	https://www.drupal.org/project/twig_tweak
-bamboo_twig (ontbreekt) 	    https://www.drupal.org/project/bamboo_twig
+twig_field (ontbreekt) https://www.drupal.org/project/twig_field
+The CodeMirror Editor (ontbreekt) https://www.drupal.org/project/codemirror_editor	
+twig_tweak (ontbreekt) https://www.drupal.org/project/twig_tweak
+bamboo_twig (ontbreekt) https://www.drupal.org/project/bamboo_twig
 bamboo_twig_loader (ontbreekt
