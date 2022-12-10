@@ -30,9 +30,9 @@ Ik maak gebruik van een afbeeldingsstijl big. Dit geeft de afbeeldingen weer op 
 
 
 Vereist: module
-asset_injector (ontbreekt) https://www.drupal.org/project/asset_injector
-color_field    (ontbreekt) https://www.drupal.org/project/color_field
-conditional_fields (ontbreekt) https://www.drupal.org/project/conditional_fields
+asset_injector(ontbreekt) https://www.drupal.org/project/asset_injector
+color_field(ontbreekt) https://www.drupal.org/project/color_field
+conditional_fields(ontbreekt) https://www.drupal.org/project/conditional_fields
 Field
 File
 Image
