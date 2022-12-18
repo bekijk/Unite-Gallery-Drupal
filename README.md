@@ -1,4 +1,4 @@
-Unite Gallery integreert in Drupal 9. https://unitegallery.net/ heeft talrijke knappe voorstellingswijzen van afbeeldingen en video's.
+Unite Gallery integreert in Drupal 10. https://unitegallery.net/ heeft talrijke knappe voorstellingswijzen van afbeeldingen en video's.
 
 Ik voorzie 2 voorstellingen voor afbeeldingen in één node
 
